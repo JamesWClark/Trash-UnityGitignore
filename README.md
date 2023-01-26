@@ -1,3 +1,5 @@
 # Trash-UnityGitignore
 
-something, anything, it doesn't matter... 
+git add .
+git commit -m "Update readme"
+git push
